@@ -44,8 +44,8 @@
 ## 🟩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanrajput0&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true"
-  width="100%" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/rohanrajput0/rohanrajput0/main/contrib-heatmap.svg"
+       width="100%" alt="Contribution heatmap" />
 </p>
 
 ---
