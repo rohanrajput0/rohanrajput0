@@ -27,7 +27,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Scrape real contribution data (no auth needed)
-        run: python scripts/fetch_contributions.py
+        run: python fetch_contributions.py
 
       - name: Render animated contribution graph SVG
         run: python scripts/render_heatmap_svg.py
